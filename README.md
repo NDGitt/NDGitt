@@ -47,19 +47,19 @@ _Stack:_ Next.js, Supabase/Postgres, PWA
 - Ship the smallest useful thing; measure impact; polish what people touch most
 
 ### Tools
-Python · SQL · Next.js · Supabase · n8n · OpenAI APIs · Material UI  
-**Coding setup:** Cursor + Claude Code  
-**Previously:** extensive workplace ops automation in **VBA**
+**Core:** `Python` · `SQL` · `Next.js` · `Supabase` · `n8n` · `OpenAI API` · `Material UI`  
+**Coding setup:** `Cursor` · `Claude Code`  
+**Previously:** extensive workplace ops automation in `VBA`
 
 ---
 
 <!-- Footer: only LinkedIn + Coffee Chat -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-devgan" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
   <a href="https://topmate.io/nikhil_devgan" target="_blank">
-    <img alt="Coffee Chat (Topmate)" src="https://img.shields.io/badge/Coffee%20Chat-Book-6d28d9?style=for-the-badge&logo=googlecalendar&logoColor=white">
+    <img alt="Coffee Chat" src="https://img.shields.io/badge/Coffee%20Chat-6d28d9?style=for-the-badge&logo=googlecalendar&logoColor=white">
   </a>
 </p>
