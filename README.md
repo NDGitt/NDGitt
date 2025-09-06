@@ -5,6 +5,15 @@
 I build agentic AI tools that turn messy workflows into push-button actions.  
 *Berkeley Haas MBA*
 
+<br>
+
+<a href="https://www.nikhildevgan.com">
+  <img alt="Portfolio" src="https://img.shields.io/badge/View%20Portfolio-2563EB?style=for-the-badge">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikhil-devgan">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
