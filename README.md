@@ -5,18 +5,6 @@
 I build agentic AI tools that turn messy workflows into push-button actions.  
 *Berkeley Haas MBA*
 
-<br>
-
-<!-- Quick Nav -->
-<p>
-  <a href="#-what-im-focused-on">Focus</a> ·
-  <a href="#-selected-work">Work</a> ·
-  <a href="#-how-i-work">Method</a> ·
-  <a href="#-tools">Tools</a> ·
-  <a href="#-lets-connect">Connect</a>
-</p>
-
-</div>
 
 ---
 
