@@ -1,25 +1,29 @@
 # Hi, I'm Nikhil 👋
-Builder of AI-powered tools for resumes, hiring, and personal productivity. Berkeley Haas MBA.
+I build agentic AI tools that turn messy workflows into push-button actions. Berkeley Haas MBA.
 
 ### What I’m focused on
-- Shipping agentic workflows for resume tailoring and hiring
-- Building lightweight, habit-friendly productivity apps
-- Exploring digital health and wearables strategy
+- Resume and hiring automations with measurable time savings
+- Lightweight, habit-friendly productivity apps
+- Shipping small, instrumented prototypes and iterating fast
 
 ### Selected work
-- **AI Resume Tailor** — Generates JD-specific resumes while preserving layout  
+- **AI Resume Tailor** — JD-specific resumes, layout preserved  
   _Python, OpenAI, n8n, Google Docs/Drive_ • [Live](https://www.nikhildevgan.com/AIResume)
-- **AI Talent Matcher** — Recruiter ↔ candidate matching for MBA grads  
+- **AI Talent Matcher** — recruiter ↔ candidate matching for MBA grads  
   _Next.js, Supabase, embeddings_ • [Live](https://www.nikhildevgan.com/AITalent)
-- **NotesNotNoise (PWA)** — Minimal notes app with AI nudges and daily carry-forward  
+- **NotesNotNoise (PWA)** — minimal notes with gentle AI nudges  
   _Next.js, Supabase/Postgres, PWA_ • [Live](https://NotesNotNoise.com)
-- **Portfolio** — Selected builds, demos, and write-ups  
+- **Portfolio** — selected builds, demos, write-ups  
   _Overview & links_ • [Visit](https://www.nikhildevgan.com)
 
-### Tools I use
+### How I work
+- Hypothesis → prototype in days → instrument → iterate with real users  
+- Ship the smallest useful thing; measure impact; polish what people touch most
+
+### Tools
 Python · SQL · Next.js · Supabase · n8n · OpenAI APIs · Material UI  
-**Coding setup:** actively using **Cursor** and **Claude Code**  
-**Previously:** built **extensive workplace ops automation** with **VBA**
+**Coding setup:** Cursor + Claude Code  
+**Previously:** extensive workplace ops automation in **VBA**
 
 ---
 
