@@ -12,7 +12,7 @@ _Stack:_ Python, OpenAI, n8n, Google Docs/Drive
 
 <p>
   <a href="https://www.nikhildevgan.com/AIResume" target="_blank">
-    <img alt="Launch Demo" src="https://img.shields.io/badge/Launch-Demo-0F172A?style=flat&logo=openai&logoColor=white">
+    <img alt="Open" src="https://img.shields.io/badge/Open-0F172A?style=for-the-badge&logo=openai&logoColor=white">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ _Stack:_ Next.js, Supabase, embeddings
 
 <p>
   <a href="https://www.nikhildevgan.com/AITalent" target="_blank">
-    <img alt="Launch Demo" src="https://img.shields.io/badge/Launch-Demo-111827?style=flat&logo=vercel&logoColor=white">
+    <img alt="Open" src="https://img.shields.io/badge/Open-0F172A?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ _Stack:_ Next.js, Supabase/Postgres, PWA
 
 <p>
   <a href="https://NotesNotNoise.com" target="_blank">
-    <img alt="Open Site" src="https://img.shields.io/badge/Open-Site-0ea5e9?style=flat&logo=nextdotjs&logoColor=white">
+    <img alt="Open" src="https://img.shields.io/badge/Open-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ _Stack:_ Next.js, Supabase/Postgres, PWA
 
 <p>
   <a href="https://www.nikhildevgan.com" target="_blank">
-    <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-10b981?style=flat&logo=readme&logoColor=white">
+    <img alt="Open" src="https://img.shields.io/badge/Open-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
@@ -55,11 +55,11 @@ Python · SQL · Next.js · Supabase · n8n · OpenAI APIs · Material UI
 
 <!-- Footer: only LinkedIn + Coffee Chat -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhil_devgan" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect?style=social&logo=linkedin">
+  <a href="https://www.linkedin.com/in/nikhil-devgan" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
   <a href="https://topmate.io/nikhil_devgan" target="_blank">
-    <img alt="Coffee Chat (Topmate)" src="https://img.shields.io/badge/Book%20a%20Coffee%20Chat-Topmate-0F172A?style=flat&logo=googlecalendar&logoColor=white">
+    <img alt="Coffee Chat (Topmate)" src="https://img.shields.io/badge/Book_a_Coffee_Chat-Topmate-6d28d9?style=for-the-badge&logo=googlecalendar&logoColor=white">
   </a>
 </p>
