@@ -15,6 +15,13 @@ I build agentic AI tools that turn messy workflows into push-button actions.
 - Shipping small, instrumented prototypes and iterating fast  
 
 ### 🚀 Selected work
+**[PecanTalent](https://www.pecantalent.com)** – AI-powered recruitment platform
+Candidates: Tailor resumes to any job using a Chrome extension
+Recruiters: Find talent using natural-language search across structured profiles
+*Stack:* Next.js · Python · Supabase · PostgreSQL · OpenAI · Chrome Extension
+
+<p> <a href="https://www.pecantalent.com"> <img alt="Launch" src="https://img.shields.io/badge/Launch-2563EB?style=for-the-badge"> </a> </p>
+
 **[AI Resume Tailor](https://www.nikhildevgan.com/AIResume)** – JD-specific resumes with layout preserved  
 *Stack:* Python · OpenAI · n8n · Google Docs/Drive  
 <p>
