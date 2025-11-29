@@ -15,6 +15,15 @@ I build agentic AI tools that turn messy workflows into push-button actions.
 - Shipping small, instrumented prototypes and iterating fast  
 
 ### 🚀 Selected work
+**[n8n-Workflows](https://github.com/NDGitt/n8n-Workflows)** – A growing collection of production-ready automation blueprints
+*Featured:* **AI Thought Logger** – Turn Telegram voice notes into structured data with AI
+*Stack:* n8n · OpenAI · Telegram · Google Sheets
+<p>
+  <a href="https://github.com/NDGitt/n8n-Workflows">
+    <img alt="View Repo" src="https://img.shields.io/badge/View_Repo-2563EB?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 **[PecanTalent](https://www.pecantalent.com)** – AI-powered recruitment platform
 Candidates: Tailor resumes to any job using a Chrome extension
 Recruiters: Find talent using natural-language search across structured profiles  
